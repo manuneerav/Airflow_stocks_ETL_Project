@@ -19,8 +19,6 @@ Apache Airflow<br>
 
 ![Screenshot from 2023-06-28 09-09-59](https://github.com/manuneerav/Airflow_stocks_ETL_Project/assets/59529237/a15d93e4-f90e-4f4b-ac53-13901451183d)
 
-![Screenshot from 2023-06-27 17-30-35](https://github.com/manuneerav/Airflow_stocks_ETL_Project/assets/59529237/a1d3a9ae-cf39-4a4a-8010-0bdd4e5f05cd)
-
 ![Screenshot from 2023-06-27 17-31-36](https://github.com/manuneerav/Airflow_stocks_ETL_Project/assets/59529237/089b7b8d-2202-4d98-bf24-a64d398261c2)
 
 ![Screenshot from 2023-06-27 17-37-07](https://github.com/manuneerav/Airflow_stocks_ETL_Project/assets/59529237/91fa3879-d038-423b-9572-d6e878ea1cb7)
